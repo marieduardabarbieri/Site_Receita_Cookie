@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-image: url(img/fundo.jpg);
+}
+img {
+  width: 100%;
+}
+/*.bloco {
+  text-align: center;
+  justify-content: center;
+  margin: 30px 30px;
+  border: 1px solid black;
+}*/
+.container {
+  margin: 30px 50px;
+  padding: 0px 50px;
+  border-radius: 3px;
+}
+
+hr {
+  margin: 20px 0px;
+  border: 1px solid rgb(143, 143, 143);
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(58, 50, 50);
+  margin-bottom: 20px;
+}
+
+h3 {
+  text-align: left;
+  font-size: 27px;
+  color: rgb(122, 128, 127);
+  margin-bottom: 40px;
+}
+
+li {
+  font-size: 19px;
+  margin-bottom: 15px;
+}
+
+footer {
+  margin-top: 80px;
+  background-color: rgb(155, 158, 158);
+  padding: 40px 0px 40px 80px;
+}
+
+p {
+  font-size: 17px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
